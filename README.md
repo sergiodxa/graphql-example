@@ -1,2 +1,2 @@
 # graphql-example
-Example GraphQL server implementing Query, Mutation and Subscriptino
+Example GraphQL server implementing Query, Mutation and Subscription
